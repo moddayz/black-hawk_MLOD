@@ -56,7 +56,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="HelicopterSIB\black-hawk\data\25_smdi.paa";
+	texture="HelicopterSIB_black-hawk\data\25_smdi.paa";
 	uvSource="tex";
 	class uvTransform
 	{

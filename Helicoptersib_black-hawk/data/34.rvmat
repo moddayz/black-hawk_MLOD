@@ -8,7 +8,7 @@ PixelShaderID="Super";
 VertexShaderID="Super";
 class Stage1
 {
-	texture="HelicopterSIB\black-hawk\data\34_nohq.paa";
+	texture="HelicopterSIB_black-hawk\data\34_nohq.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -56,7 +56,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="#(argb,8,8,3)color(1,1,1,1,smdi)";
+	texture="HelicopterSIB_black-hawk\data\34_smdi.paa";
 	uvSource="tex";
 	class uvTransform
 	{
